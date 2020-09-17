@@ -1,0 +1,54 @@
+/*  IDS  */
+
+#main-div-1 {
+
+}
+
+#main-h1 {
+
+}
+
+#link {
+    color: orange;
+}   
+
+#link_youtube {
+    position: center;
+}
+
+#overflow-icon {
+    width: 25%;
+}
+
+/* CLASSES */
+.flex-container {
+    display: flex;
+    justify-content: center;
+}
+
+.titulo {
+    color: white;
+}
+
+.main-text {
+    background-color: rgba(255, 255, 255, 0.5);
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: center;
+}
+
+/* TAGS DO HTML*/
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url("./img/pagina-inicial-do-site-de-busca-baidu-1.jpg");
+    background-size: cover;
+}
+
+header {
+    display: flexbox;
+    align-items: center;
+}
+
+h1 {
+    font-size: 26px;
+}
